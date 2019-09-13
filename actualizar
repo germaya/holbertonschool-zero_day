@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "Commands vi"
+git push https://github.com/germaya/holbertonschool-zero_day
